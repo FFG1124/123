@@ -1,3 +1,4 @@
+![微信图片_20240518121947](https://github.com/FFG1124/FFG1124/assets/171813209/40767f3f-1052-48b2-b210-5db29f551614)
 ## Hi there 👋
 ## Welcome to the server webpage. The server address is: gd.s2.6net.plus20002
 If you want to add on WeChat, come find the anchor. For penguins, the penguin group number is 939305771
