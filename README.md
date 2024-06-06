@@ -4,13 +4,6 @@ If you want to add on WeChat, come find the anchor. For penguins, the penguin gr
 
 <!--
 **FFG1124/FFG1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-.hero{
-    width: 100%;
-    min-height: 100vh;
-    background-image: url(./000.png);
-    color: transparent;
-    position: relative;
-}
 
 
 Here are some ideas to get you started:
