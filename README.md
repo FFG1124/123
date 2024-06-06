@@ -1,4 +1,4 @@
-![000](https://github.com/FFG1124/FFG1124/assets/171813209/dbec1c96-3549-40d8-9d30-dade9c1b44ad:fullscreen)
+fullscreen:![000](https://github.com/FFG1124/FFG1124/assets/171813209/dbec1c96-3549-40d8-9d30-dade9c1b44ad)
 
 ## Hi there 👋
 ## Welcome to the server webpage. The server address is: gd.s2.6net.plus20002
