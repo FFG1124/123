@@ -1,3 +1,4 @@
+![2024-06-07_17 53 02](https://github.com/FFG1124/FFG1124/assets/171813209/aad1e1ee-1220-48f5-93ad-255e99a128e8)
 
 ## Hi there 👋
 ## Welcome to the server webpage. The server address is: gd.s2.6net.plus20002
