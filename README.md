@@ -4,6 +4,7 @@
 If you want to add on WeChat, come find the anchor. For penguins, the penguin group number is 939305771
 ![000](https://github.com/FFG1124/FFG1124/assets/171813209/dbec1c96-3549-40d8-9d30-dade9c1b44ad)
 ![2024-06-07_17 53 02](https://github.com/FFG1124/FFG1124/assets/171813209/aad1e1ee-1220-48f5-93ad-255e99a128e8)
+background-image:![2024-06-07_17 53 02](https://github.com/FFG1124/FFG1124/assets/171813209/aad1e1ee-1220-48f5-93ad-255e99a128e8)
 
 
 <!--
